@@ -1,0 +1,3 @@
+
+int
+getSocket(int portno);
